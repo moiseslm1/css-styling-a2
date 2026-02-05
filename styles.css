@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, fallback;
+    background-color: steelblue;
+    margin: 0;
+    padding: 20px;
+}
+.container{
+    max-width: 800px;
+    margin: auto;
+    background-color: azure;
+    padding: 20px;
+    border-radius: 8px;
+}
