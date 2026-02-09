@@ -11,3 +11,35 @@ body{
     padding: 20px;
     border-radius: 8px;
 }
+h1 {
+    color: rgb(60, 0, 128);
+    text-align: center;
+}
+
+p {
+    line-height: 1.6;
+    text-align: center
+}
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+.center-list {
+    width: fit-content;
+    margin: 0 auto;
+    line-height: 2;
+    
+}
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 5px 5px 0 0;
+    border-color: black;
+}
+a.link {
+    color: darkblue;
+    text-decoration: none;
+    font-weight: bold;
+}
